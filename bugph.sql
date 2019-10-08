@@ -1,7 +1,3 @@
-﻿# Host: 127.0.0.1  (Version 5.5.5-10.1.30-MariaDB)
-# Date: 2019-04-10 19:54:55
-# Generator: MySQL-Front 6.1  (Build 1.26)
-
 
 #
 # Structure for table "usuarios"
