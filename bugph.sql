@@ -2,7 +2,6 @@
 # Date: 2019-04-10 19:54:55
 # Generator: MySQL-Front 6.1  (Build 1.26)
 
-
 #
 # Structure for table "usuarios"
 #
@@ -23,7 +22,6 @@ CREATE TABLE `usuarios` (
 # Data for table "usuarios"
 #
 
-
 #
 # Structure for table "posts"
 #
@@ -43,7 +41,6 @@ CREATE TABLE `posts` (
 #
 # Data for table "posts"
 #
-
 
 #
 # Structure for table "comentarios"
@@ -67,7 +64,6 @@ CREATE TABLE `comentarios` (
 # Data for table "comentarios"
 #
 
-
 #
 # Structure for table "curtidas"
 #
@@ -89,7 +85,6 @@ CREATE TABLE `curtidas` (
 # Data for table "curtidas"
 #
 
-
 #
 # Structure for table "logs"
 #
@@ -108,4 +103,3 @@ CREATE TABLE `logs` (
 #
 # Data for table "logs"
 #
-
